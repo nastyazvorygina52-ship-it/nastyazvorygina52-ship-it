@@ -15,7 +15,7 @@
 
     </td>
     <td>
-      <img src="https://raw.https://github.com/nastyazvorygina52-ship-it/media-resources/blob/main/gif/quality%20assurance%20qa%20GIF.gif" width="300"/>
+      <img src="https://raw.githubusercontent.com/nastyazvorygina52-ship-it/media-resources/main/gif/quality%20assurance%20qa%20GIF.gif" width="300"/>
     </td>
   </tr>
 </table>
