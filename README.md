@@ -24,7 +24,7 @@
 ---
 
 ## 📜 Certificates
-- [Internship Certificate](https://github.com/nastyazvorygina52-ship-it/media-resources/blob/main/pdf/Intern_10477031.pdf)
+- [Internship Certificate (raw)](https://raw.githubusercontent.com/nastyazvorygina52-ship-it/media-resources/main/pdf/Intern_10477031.pdf)
 
 
 ## 🛠 Skills & Tools
