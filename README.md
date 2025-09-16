@@ -3,30 +3,29 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start;">
-
-<div style="flex: 1; padding-right: 20px;">
+<table>
+<tr>
+<td>
 
 ### 👩‍💻 About Me
 - 🧪 QA Engineer specialized in **manual and exploratory testing**  
 - 🔍 Experienced in **functional, regression, and smoke testing**  
-- 📚 Qualified in **API testing** and **SQL**  
+- 📚 Qualified in **API testing** и **SQL**  
 - 💻 Focused on delivering high-quality software and improving development processes  
 
-</div>
+</td>
+<td>
 
-<div style="flex: 0 0 300px;">
-  <img src="https://raw.githubusercontent.com/nastyazvorygina52-ship-it/media-resources/main/gif/quality_assurance_qa_GIF.gif" width="300"/>
-</div>
+<img src="https://raw.githubusercontent.com/nastyazvorygina52-ship-it/media-resources/main/gif/quality_assurance_qa_GIF.gif" width="300"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-
 ## 📜 Certificates
 - [Internship Certificate](https://github.com/nastyazvorygina52-ship-it/media-resources/blob/main/pdf/Intern_10477031.pdf)
-
 
 ## 🛠 Skills & Tools
 
