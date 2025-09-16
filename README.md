@@ -10,12 +10,12 @@
 ### 👩‍💻 About Me
 - 🧪 QA Engineer specialized in **manual and exploratory testing**  
 - 🔍 Experienced in **functional, regression, and smoke testing**  
-- 📚 Expanding expertise in **API testing and SQL**  
+- 📚 Qualified in **API testing** and **SQL**  
 - 💻 Focused on delivering high-quality software and improving development processes  
 
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/nastyazvorygina52-ship-it/media-resources/main/gif/quality%20assurance%20qa%20GIF.gif" width="300"/>
+      <img src="https://raw.githubusercontent.com/nastyazvorygina52-ship-it/media-resources/main/gif/quality_assurance_qa_GIF.gif" width="300"/>
     </td>
   </tr>
 </table>
@@ -23,13 +23,17 @@
 
 ---
 
+## 📜 Certificates
+- [Internship Certificate](https://github.com/nastyazvorygina52-ship-it/media-resources/blob/main/pdf/Intern_10477031.pdf)
+
+
 ## 🛠 Skills & Tools
 
-### 📋 Testing
+### 📋 Hard skills
 - Manual Testing (Web & Desktop)  
 - Exploratory Testing  
 - Regression & Smoke Testing  
-- Writing test cases & bug reports  
+- Compiling test cases & bug reports  
 
 ### 🔧 Tools
 <p>
@@ -67,7 +71,7 @@
 
 ## 🤝 Soft Skills
 - Attention to detail  
-- Team collaboration  
+- Ability to collaborate with teammates 
 - Communication with developers & stakeholders  
 - Quick learning & adaptability  
 
@@ -96,7 +100,7 @@
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 <p>
   <a href="mailto:zvorigina2015@yandex.ru"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/izvanami"><img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
